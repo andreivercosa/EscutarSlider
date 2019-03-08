@@ -1,0 +1,12 @@
+/Users/aluno/Projects/EscutarSlider/EscutarSlider/bin/Debug/netstandard2.0/EscutarSlider.deps.json
+/Users/aluno/Projects/EscutarSlider/EscutarSlider/bin/Debug/netstandard2.0/EscutarSlider.dll
+/Users/aluno/Projects/EscutarSlider/EscutarSlider/bin/Debug/netstandard2.0/EscutarSlider.pdb
+/Users/aluno/Projects/EscutarSlider/EscutarSlider/obj/Debug/netstandard2.0/EscutarSlider.csprojAssemblyReference.cache
+/Users/aluno/Projects/EscutarSlider/EscutarSlider/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Projects/EscutarSlider/EscutarSlider/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Projects/EscutarSlider/EscutarSlider/obj/Debug/netstandard2.0/EscutarSlider.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/EscutarSlider/EscutarSlider/obj/Debug/netstandard2.0/EscutarSlider.AssemblyInfoInputs.cache
+/Users/aluno/Projects/EscutarSlider/EscutarSlider/obj/Debug/netstandard2.0/EscutarSlider.AssemblyInfo.cs
+/Users/aluno/Projects/EscutarSlider/EscutarSlider/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Projects/EscutarSlider/EscutarSlider/obj/Debug/netstandard2.0/EscutarSlider.dll
+/Users/aluno/Projects/EscutarSlider/EscutarSlider/obj/Debug/netstandard2.0/EscutarSlider.pdb

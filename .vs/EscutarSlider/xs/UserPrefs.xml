@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{A67046D2-A0DB-4937-8E6A-2FEECDF301A1}|Default">
+  <MonoDevelop.Ide.ItemProperties.EscutarSlider FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EscutarSlider/MainPage.xaml">
+    <Files>
+      <File FileName="EscutarSlider/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="EscutarSlider/MainPage.xaml" Line="7" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EscutarSlider" expanded="True">
+            <Node name="EscutarSlider" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.EscutarSlider.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.EscutarSlider.Android FirstBuild="True" PreferredExecutionTarget="Android.JBAKB6044247LNM" />
+</Properties>
